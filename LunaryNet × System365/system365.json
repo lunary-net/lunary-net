@@ -1,0 +1,16 @@
+{
+    "System365": {
+        "title": "System365 - LunaryNet",
+        "description": "LunaryNet System365 New Version",
+        "version": "v3.9.8",
+        "softversion": "v1.9.6",
+        "Editors": "LunaryNetDev, Vojtaa3181",
+        "Developers": "Vojtaa3181",
+        "OS": "Windows 11 ",
+        "CodeLang": "JS, JSON, HTML, CSS",
+        "Device": "Windows 7-11, Android, PlayStasion PS3-5, Nintendo",
+        "service-url": "https://github.com/lunary-net/lunary-network.mc/blob/main/README.md",
+        "website-url": "https://lunary-net.github.io/lunary-network.mc",
+        "system365-url": "https://github.com/lunary-net/System365"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "LunaryNetSystem365": {
+        "title": "LunaryNetSystem365",
+       "description": "Lunary Network » System 365",
+       "version": "v3.9.8",
+       "developers": "Vojtaa3181",
+       "OS": "Windows 11 Pro"
+    },
+    "System365": {
+        "title": "System365 ツ",
+        "description": "LunarySystem365 ",
+        "softversion": "v1.9.6",
+        "developers": "Lunary Network staff team",
+        "OS": "Windows 11 Pro",
+        "Language": "html5, css, js, json",
+        "system": "debug"
+    }
+}
