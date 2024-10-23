@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "theme": "dark",
+        "autoSave": true,
+        "notifications": true
+    },
+    "preferences": {
+        "language": "en",
+        "backupFrequency": "daily",
+        "errorReporting": "detailed"
+    }
+}
