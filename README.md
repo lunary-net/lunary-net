@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [VNL.dev](https://github.com/vnl-dev/vnl-dev.github.io)
 
-- 🤝 I’m looking for help with [MCBE Nuking Bot](https://github.com/vnl-dev/MCBE-Nuking-bot)
-
 - 👨‍💻 Developer since 01/09/2024
 
 - 📝 I actually creating Programming language
@@ -23,7 +21,7 @@
 
 - 📄 Experience starting reading this bio!
 
-- ⚡ Fun fact **I just have 47gb to my projects!**
+- ⚡ Fun fact **I just have 27gb to my projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
